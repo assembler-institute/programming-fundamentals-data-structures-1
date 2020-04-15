@@ -9,9 +9,6 @@ function exercise08() {
     const cities = ['Barcelona', 'Madrid', 'Lisbon', 'Berlin', 'Paris'];
 
     // Write your solution bellow this line
-    let found = cities.find((name) => name === 'Berlin');
-
-    return found;
 }
 
 module.exports = exercise08;

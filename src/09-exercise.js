@@ -17,13 +17,6 @@ function exercise09() {
     let nameLengths = [];
 
     // Write your solution bellow this line
-    nameLengths = cities.map(function (name) {
-        if (name.length < 8) {
-            return 'short name';
-        } else if (name.length > 8) {
-            return 'long name';
-        }
-    });
 
     // Don’t change the code bellow this line
     return {

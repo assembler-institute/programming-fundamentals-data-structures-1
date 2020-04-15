@@ -10,8 +10,6 @@ function exercise04() {
     const names = ['John', 'Mark'];
 
     // Write your solution bellow this line
-    names.push('Ana');
-    names.push('Maria');
 
     // Don’t change the code bellow this line
     return names;

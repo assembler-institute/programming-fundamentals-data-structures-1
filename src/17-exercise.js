@@ -1,5 +1,5 @@
 /**
- * Use the built-in `Object.assing` method to:
+ * Use the built-in `Object.assign` method to:
  *
  * 1. create a copy of the person object and store it in the `copy` object
  * 2. Add the properties:
@@ -18,12 +18,6 @@ function exercise17() {
     let copy = {};
 
     // Write your solution bellow this line
-    Object.assign(copy, person, {
-        ocupation: 'developer',
-        role: 'sys-admin',
-    });
-
-    return copy;
 }
 
 module.exports = exercise17;

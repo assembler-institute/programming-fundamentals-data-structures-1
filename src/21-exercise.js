@@ -94,18 +94,6 @@ function exercise21() {
             },
         ],
     ];
-
-    let emails = [];
-
-    data.forEach(function (row) {
-        row.forEach(function (person) {
-            if (person.email.length > 22) {
-                emails.push(person.email);
-            }
-        });
-    });
-
-    return emails;
 }
 
 module.exports = exercise21;

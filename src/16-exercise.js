@@ -1,5 +1,5 @@
 /**
- * Use the built-in `Object.assing` method to:
+ * Use the built-in `Object.assign` method to:
  *
  * create a copy of the person object and store it in the `copy` object
  */
@@ -15,7 +15,6 @@ function exercise16() {
     let copy = {};
 
     // Write your solution bellow this line
-    Object.assign(copy, person);
 
     // Don’t change the code bellow this line
     return {

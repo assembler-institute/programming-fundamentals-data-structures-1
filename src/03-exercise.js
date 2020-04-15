@@ -31,9 +31,6 @@ function exercise03() {
         age: 23,
         ocupation: 'developer',
         // Write your solution bellow this line
-        logName: function (name) {
-            return `I am ${name}`;
-        },
     };
 
     // Don’t change the code bellow this line

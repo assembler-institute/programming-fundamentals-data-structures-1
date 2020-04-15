@@ -25,9 +25,6 @@ function exercise02(person) {
     let result = '';
 
     // write your solution bellow this line
-    result = `My name is ${person.firstname} ${person.lastname}`;
-
-    return result;
 }
 
 module.exports = exercise02;

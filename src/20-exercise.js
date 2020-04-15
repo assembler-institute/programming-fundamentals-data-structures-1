@@ -9,12 +9,7 @@
 function exercise20() {
     const cities = ['Barcelona', 'Madrid', 'Lisbon', 'Berlin', 'Paris'];
 
-    let lisbon = cities.indexOf('Lisbon');
-    let paris = cities.indexOf('Paris');
-
-    let indexes = [lisbon, paris];
-
-    return indexes;
+    // Write your solution bellow this line
 }
 
 module.exports = exercise20;

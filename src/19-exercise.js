@@ -28,12 +28,6 @@ function exercise19() {
             grade: 6,
         },
     ];
-
-    let grades = students.map(function (student) {
-        return student.grade;
-    });
-
-    return grades;
 }
 
 module.exports = exercise19;

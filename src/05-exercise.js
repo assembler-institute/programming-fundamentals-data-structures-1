@@ -6,8 +6,6 @@ function exercise05() {
     const names = ['John', 'Mark', 'Spence', 'Ana'];
 
     // Write your solution bellow this line
-    names.pop();
-    names.pop();
 
     // Don’t change the code bellow this line
     return names;
