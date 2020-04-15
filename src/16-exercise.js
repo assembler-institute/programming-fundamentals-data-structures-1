@@ -1,5 +1,5 @@
 /**
- * Use the built-in `Object.assing` method to:
+ * Use the built-in `Object.assign` method to:
  *
  * create a copy of the person object and store it in the `copy` object
  */
