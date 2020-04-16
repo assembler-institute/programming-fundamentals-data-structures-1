@@ -4,7 +4,7 @@
  * 1.1 key: `name` | value: `Barcelona`
  * 1.2 key: `districtsCount` | value: 10
  * 1.3 key: `districts` | value:
- *    array with the values: Ciutat Vella, Eixample, Sants–Montjuic, Les Corts
+ *    array with the values: Ciutat Vella, Eixample, Sants-Montjuic, Les Corts
  *
  * 2. Return the object
  */
@@ -14,7 +14,7 @@ function exercise11() {
     const city = {
         name: 'Barcelona',
         districtsCount: 10,
-        districts: ['Ciutat Vella', 'Eixample', 'Sants–Montjuic', 'Les Corts'],
+        districts: ['Ciutat Vella', 'Eixample', 'Sants-Montjuic', 'Les Corts'],
     };
 
     return city;
