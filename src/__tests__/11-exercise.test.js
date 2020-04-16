@@ -8,7 +8,7 @@ describe('11-exercise', () => {
             districts: expect.arrayContaining([
                 'Ciutat Vella',
                 'Eixample',
-                'Sants–Montjuic',
+                'Sants-Montjuic',
                 'Les Corts',
             ]),
         });
