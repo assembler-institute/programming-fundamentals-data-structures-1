@@ -1,6 +1,6 @@
-`#programming-fundamentals` `#values-types-operators` `#assembler-school` `#master-in-software-development`
+`#programming-fundamentals` `#values-types-operators` `#assembler-institute` `#master-in-software-development`
 
-# Assembler School: Programming Fundamentals - Data structures I <!-- omit in toc -->
+# Assembler Institute: Programming Fundamentals - Data structures I <!-- omit in toc -->
 
 With these exercises pill you'll learn how to use objects and arrays.
 
@@ -18,7 +18,7 @@ With these exercises pill you'll learn how to use objects and arrays.
 First, you will need to clone the repo:
 
 ```bash
-$ git clone https://github.com/assembler-school/programming-fundamentals-data-structures-1.git
+$ git clone https://github.com/assembler-institute/programming-fundamentals-data-structures-1.git
 ```
 
 ## Dependencies
