@@ -1,10 +1,11 @@
 /**
  * 1. Create an array with the grades of the students
  *    using one of the built in array loops such as
- *    forEach, map, etcera
+ *    forEach, map, etc.
  *
  * 2. Return the array of grades.
  */
+
 function exercise19() {
     const students = [
         {
@@ -28,6 +29,8 @@ function exercise19() {
             grade: 6,
         },
     ];
+    // Write your solution bellow this line
+
 }
 
 module.exports = exercise19;

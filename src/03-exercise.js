@@ -12,8 +12,8 @@
  * `I am Mark`
  *
  * NOTE:
- * Methods are functions that are stored in the property
- * of an object.
+ * Methods are functions that are stored in
+ * the property of an object.
  *
  * @example
  *
@@ -26,13 +26,14 @@
  *
  * person.getSalary(25000); // 25000
  */
+
 function exercise03() {
     let person = {
         age: 23,
         ocupation: 'developer',
         // Write your solution bellow this line
-    };
 
+    };
     // Don’t change the code bellow this line
     return person;
 }

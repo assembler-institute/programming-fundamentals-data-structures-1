@@ -6,10 +6,12 @@
  *
  *    Use an array method or loop to remove the duplicates
  *    from the `cities` array and store the non-duplicate values
- *    in a new array. (some array methods return a new array)
+ *    in a new array.
+ *    NOTE: Some array methods return a new array
  *
  * 2. Return the array of non-duplicate city names
  */
+
 function exercise22() {
     const cities = [
         { id: 10, name: 'Barcelona' },
@@ -29,8 +31,8 @@ function exercise22() {
         { id: 21, name: 'Bucharest' },
         { id: 21, name: 'Berlin' },
     ];
-
     // Write your solution bellow this line
+
 }
 
 module.exports = exercise22;
