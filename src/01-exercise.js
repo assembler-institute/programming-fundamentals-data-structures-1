@@ -7,11 +7,11 @@
  * Use the property that arrays have to get the length,
  * not by counting the number of elements yourself.
  */
+
 function exercise01() {
     const names = ['Mark', 'John', 'Anna'];
     const cities = ['Barcelona', 'Madrid', 'Lisbon', 'Berlin', 'Paris'];
     const arrayLengths = [];
-
     // write your solution bellow this line
     arrayLengths.push(names.length);
     arrayLengths.push(cities.length);

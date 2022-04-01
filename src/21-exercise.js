@@ -5,6 +5,7 @@
  *
  * 2. Return the array of emails that have 22 characters or more.
  */
+
 function exercise21() {
     const data = [
         [

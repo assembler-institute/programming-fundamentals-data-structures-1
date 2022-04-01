@@ -1,9 +1,10 @@
 /**
  * Use the built-in `Object.values` method to:
  *
- * 1. get the values of the `person` object
- * 2. return the array of values from the function
+ * 1. Get the values of the `person` object
+ * 2. Return the array of values from the function
  */
+
 function exercise14() {
     const person = {
         firstname: 'Mark',
@@ -12,7 +13,6 @@ function exercise14() {
         ocupation: 'developer',
         role: 'sys-admin',
     };
-
     // Write your solution bellow this line
 
     let values = Object.values(person);

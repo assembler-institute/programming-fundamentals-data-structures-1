@@ -2,6 +2,7 @@
  * Use the `delete` operator to remove the `password` property
  * from the `person` object.
  */
+
 function exercise12() {
     const person = {
         firstname: 'Mark',
@@ -9,7 +10,6 @@ function exercise12() {
         age: 34,
         password: 'my-favorite-password-1234',
     };
-
     // Write your solution bellow this line
     delete person.password;
 
