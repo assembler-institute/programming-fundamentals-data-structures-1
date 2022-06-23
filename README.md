@@ -72,8 +72,8 @@ The test suites for these exercises can be executed with the following script: `
 
 Open the files indicated bellow and read the instructions and requirements of the tests to solve them.
 
-- If you get stuck you can find the answers in the `solution` branch
-- Try not to peek at the solutions
+- If you get stuck you can find the answers in the `solution` branch.
+- Try not to peek at the solutions.
 
 ## Author <!-- omit in toc -->
 
